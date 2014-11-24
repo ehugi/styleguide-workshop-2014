@@ -40,7 +40,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Alexine Bruttin | B |
 | Raphaël Carruzzo | B |
 | Julian Zimmermann | B |
-| Eva Hugi | [ehugi] (https://github.com/ehugi) | C |
+| Eva Hugi | [ehugi](https://github.com/ehugi) | C |
 | Joana DaRocha | C |
 | Kilian Zucconi | C |
 | Chloé Jelk | D |
